@@ -4,11 +4,11 @@ import "fmt"
 
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
-	for idx, num := range nums {
-		if v, found := m[target-num]; found {
-			return []int{v, idx}
+	for idx, val := range nums {
+		if i, foundValue := m[target-val]; foundValue {
+			return []int{i, idx}
 		}
-		m[num] = idx // добавим в мапу элемент из nums под таким же индексом
+		m[val] = idx
 	}
 	return nil
 }
