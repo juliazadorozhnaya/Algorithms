@@ -1,6 +1,3 @@
-# Algorithms courses
-
-### About repo
-* [LeetСode на Go](https://github.com/juliazadorozhnaya/Algorithms/tree/main/Leetcode)
-* [Тренировки по алгоритмам 3.0 от Яндекса](https://github.com/juliazadorozhnaya/Algorithms/tree/main/training_algo_yandex)
-* [Курс по алгоритмам от ЕДА ШАД](https://github.com/juliazadorozhnaya/Algorithms/tree/main/road_to_shad)
+| Status  |  #  |                              Title                              | **Difficulty** |                                     Solution                                     |
+|:-------:|:---:|:---------------------------------------------------------------:|:--------------:|:--------------------------------------------------------------------------------:|
+| &#9745; | 228 | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/228.go) |
